@@ -1,0 +1,26 @@
+E:\c#project\empMg\empMg\bin\Debug\empMg.exe.config
+E:\c#project\empMg\empMg\bin\Debug\empMg.exe
+E:\c#project\empMg\empMg\bin\Debug\empMg.pdb
+E:\c#project\empMg\empMg\obj\Debug\empMg.csprojResolveAssemblyReference.cache
+E:\c#project\empMg\empMg\obj\Debug\empMg.employ.resources
+E:\c#project\empMg\empMg\obj\Debug\empMg.login.resources
+E:\c#project\empMg\empMg\obj\Debug\empMg.Properties.Resources.resources
+E:\c#project\empMg\empMg\obj\Debug\empMg.csproj.GenerateResource.Cache
+E:\c#project\empMg\empMg\obj\Debug\empMg.exe
+E:\c#project\empMg\empMg\obj\Debug\empMg.pdb
+E:\c#project\empMg\empMg\obj\Debug\empMg.dept.resources
+E:\c#project\empMg\empMg\obj\Debug\empMg.salaries.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\bin\Debug\empMg.exe.config
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\bin\Debug\empMg.exe
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\bin\Debug\empMg.pdb
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.exe.config
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.dept.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.employ.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.login.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.Properties.Resources.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.salaries.resources
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.exe
+C:\Users\lenovo\Desktop\New folder (2)\c#project\empMg\empMg\obj\Debug\empMg.pdb
