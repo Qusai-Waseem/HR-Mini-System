@@ -1,1 +1,1 @@
-husam
+            this.pass.PasswordChar = '*';
