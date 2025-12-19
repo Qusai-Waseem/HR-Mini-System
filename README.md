@@ -1,4 +1,4 @@
-حسام درهم عمل التالي :
-عمل صفحة تسجيل الدخول و الموظفين و الاقسام   
-قصي وسيم عمل التالي :
-عمل صفحة الرواتب و قاعدة البيانات و رفع المشروع كامل على الجيت هب  
+Husam Dirham Alameri
+Qusai Waseem Mohammed Ahmed
+Course Name : c# Sharp 
+supervision : DR. Abdo alslam
