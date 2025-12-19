@@ -1,1 +1,1 @@
-            this.pass.PasswordChar = '*';
+
